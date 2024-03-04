@@ -1,0 +1,68 @@
+h3 ol li{text-align: center;
+    list-style: inside;
+    color: #A4CE95; 
+}
+
+h3 ol li a{
+    color: #A4CE95;
+}
+
+.bio{
+    margin: 10px 100px 20px 100px
+}
+
+body{
+    background-color: #5F5D9C;
+}
+
+.bio,.heading{
+    color: #F4EDCC;
+}
+
+.bio{
+    margin:auto;
+    padding: 25px;
+    display: flex;
+    outline: solid thick;
+    background-color:#6196A6;
+    width: 50%;
+    align-content: center;
+    justify-content: center;
+}
+
+.mygif{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+figcaption{
+    padding: 2px;
+    text-align: center;
+    font-size: 16px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.myimages{
+    margin: auto;
+    width: 75%;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-content: center;
+    gap: 20px
+}
+
+.spotifyembed {
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    align-content:center;
+    gap: 20px
+}
